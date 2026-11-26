@@ -19,14 +19,6 @@
 
 </div>
 
-<!-- ГЛАВНОЕ ИЗОБРАЖЕНИЕ: скриншот окна программы или короткая GIF-анимация.
-     Поместите файл в папку docs/ и раскомментируйте блок ниже. -->
-<!--
-<p align="center">
-  <img src="docs/hero.png" width="900" alt="Главное окно Image Studio">
-</p>
--->
-
 ---
 
 ## Обзор
@@ -41,6 +33,9 @@ Image Studio Desktop переносит профессиональную обр�
 | **Продуманный UI** | Безрамочное окно, три темы оформления, поддержка русского и английского языков |
 
 ---
+<img width="1110" height="930" alt="image" src="https://github.com/user-attachments/assets/7630e903-03dc-49e9-a3d0-c82e930bc1d1" />
+<img width="1261" height="833" alt="image" src="https://github.com/user-attachments/assets/a9420c8c-6c6c-4d43-bdda-462ad233f77d" />
+<img width="1091" height="927" alt="image" src="https://github.com/user-attachments/assets/7eaa14e7-1e84-4e6c-8da2-662bb751a99b" />
 
 
 ## Скриншоты
@@ -48,15 +43,15 @@ Image Studio Desktop переносит профессиональную обр�
 <table>
   <tr>
     <td rowspan="2" width="66%" valign="top">
-      <img src="https://github.com/user-attachments/assets/3b628306-3d9f-4c6b-94e1-f27f8f332382" width="100%" alt="Главное окно">
+      <img src="https://github.com/user-attachments/assets/7630e903-03dc-49e9-a3d0-c82e930bc1d1" width="100%" alt="Главное окно">
     </td>
     <td width="34%" valign="top">
-      <img src="https://github.com/user-attachments/assets/d8f561ee-0e88-462f-8766-8847abee5b7a" width="100%" alt="Редактор">
+      <img src="https://github.com/user-attachments/assets/a9420c8c-6c6c-4d43-bdda-462ad233f77d" width="100%" alt="Редактор">
     </td>
   </tr>
   <tr>
     <td width="34%" valign="top">
-      <img src="https://github.com/user-attachments/assets/91367219-5092-4e84-a188-0df60dc81dd2" width="100%" alt="История">
+      <img src="https://github.com/user-attachments/assets/7eaa14e7-1e84-4e6c-8da2-662bb751a99b" width="100%" alt="История">
     </td>
   </tr>
 </table>
