@@ -33,10 +33,6 @@ Image Studio Desktop переносит профессиональную обр�
 | **Продуманный UI** | Безрамочное окно, три темы оформления, поддержка русского и английского языков |
 
 ---
-<img width="1110" height="930" alt="image" src="https://github.com/user-attachments/assets/7630e903-03dc-49e9-a3d0-c82e930bc1d1" />
-<img width="1261" height="833" alt="image" src="https://github.com/user-attachments/assets/a9420c8c-6c6c-4d43-bdda-462ad233f77d" />
-<img width="1091" height="927" alt="image" src="https://github.com/user-attachments/assets/7eaa14e7-1e84-4e6c-8da2-662bb751a99b" />
-
 
 ## Скриншоты
 
